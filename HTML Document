@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<body>
+  <head >
+    <title>UdacityNanodegree</title>
+  </head>
+   <h1>Udacity Nanodegree: Intro to Programming</h1>
+  <div class="lesson"> 
+    <h2>Stage 1: Web Development</h2>
+  <h3>Unti 1: Basics of the Web</h3>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          The Web
+    </div>
+    <div class="Description">
+      <p> The web is programed or created by using HTML files that are linked by <b>HTML</b>.</p> 
+      <p><b>HTML (Hyper Text Markup Language)</b> is a basic for the web. The computer program that operates on the computer  display HTML files that is found on the web, to link to the internet, then it connects to the servers where the host carries the files that make up the websites. 
+      </p>
+    </div>
+    </div>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          HTML
+    </div>
+    <div class="Description">
+      <p>
+        <b>HTML</b> can create the text content, markup, and references to other documents, such as images & videos, link to another web page. 
+      </p>
+
+      <p><b>HTML</b> markup consists of an opening tag and closing tags. The entire piece of code is called an <i>element</i>. Attributes are listed after the elements, but before the corresponding value.
+Images and links are self-closing and are considered void tags, because they don't contain content.  </p>
+    </div>
+    </div>
+    
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          More information about HTML
+    </div>
+    <div class="Description">
+      <p><b>HTML Whitespace</b> can turn everything into one line. Using <i>br tag</i> can seperate the content into multiple lines. Using <i>p tag</i> is another option but it is great for paragraphy. </p>
+      <p><i>Inline and Block elements</i> are used to seperate content. An example of an inline element would be br tag because it just adds a break in the HTML line and wraps remaining text to the next line. An example of a block element would be p tag because it creates an invisible box around the content. Block elements also have a height and width. </p>   
+    </div>
+    </div>
+    
+    <h3>Unit 2: Creating a Structured Document with HTMl</h3>
+    <div class="ConcertBox">
+      <div class="Concert-Title">
+        The Page Structure 
+      </div>
+      <div class="Description">
+        <p> The HTML is <ins>the structure</ins>, CSS is <ins>the styling</ins>, and JS is <ins>the functional objects</ins>. 
+        <p>
+<p>HTML uses elements in a tree like structure, from which other elements branch.
+ </p>
+      
+      </div>
+    </div>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          HTML, CSS, and DOM
+    </div>
+    <div class="Description">
+      <p>HTML is a language with syntax , CSS is a language that uses syntax to change and design how elements look on the page.</p>
+<p>DOM (Document Object Model) which, is the standard convention for representing and interacting with HTML elements. 
+</p>
+    </div>
+    </div>
+  
+ 
+    <h3>Unit 3: Adding CSS Style to HTML</h3>
+    <div class="ConcertBox">
+      <div class="Concert-Title">
+        Understanding Cascading Style Sheet, CSS
+      </div>
+      <div class="Description">
+     <p>The CSS has its own laws. Cascading means that laws are applied to the elements that they directly match. </p>
+     <p>When you identify a class or id tag of the elements that you want to match. Then, decide what you want to do with, and what property values to replace with different ones</p>. 
+      </div>
+    </div>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          Selectors
+    </div>
+    <div class="Description">
+      <p><b>Selectors</b> is where allows you to target specific HTML elements and apply style to them. This is helpful to use CSS to avoid unnecessary repetition that waste time. There are different types of Selectors:</p>
+         <ol>
+           <li>ID Selector</li> 
+           <li>Class Selectors</li>
+           <li>Tag Selectors</li> <li>Attribute Selectors</li> 
+           <li>Positional Selectors</li> <li>Pseudo Selectors</li>
+        </ol>
+    </div>
+    </div>
+  
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          Revaluate the BOX
+    </div>
+    <div class="Description">
+      <p>We know that everything on a webpage is made up of a box.</p> <p>Which consists of 4 parts:
+Content- this is the image or text that appears on the website, comparable to the nucleus of the box, the other layers serve to protect it so other things don't get to close or overlap
+Padding- this clears an area around the content, is affected by background color, and is the space that protects the content directly
+Border- inherits color property of box, incases the padding and content
+Margin- goes around border, outer most layer, provides space between boxes, transparent.</p>
+    </div>
+    </div>
+      <div class="ConcertBox">
+      <div class="Concert-Title">
+          Code, Test, & Refine
+    </div>
+    <div class="Description">
+    <p>Compare your HTML document to the design you were created. How to know what to change?
+Get page structure right, by visually boxifying it
+Look for natural boxes
+Move on to tags(make heading h1)
+Look for repeated styles & semantic elements
+Size of boxes, how big, and how to position
+Write html
+Apply styles(biggest to smallest)
+Fix things!
+      Repeat steps above till it looks like the design mock up! </p> 
+      <p>To verify code, go to the following links: <a href="http://validator.w3.org/">HTML checker</a> and <a href="https://jigsaw.w3.org/css-validator/">CSS checker</a></p>
+
+
+
+    </div>
+    </div>
+    
+    
+    
+  
+  </div> <!--The End of Box -->
+  
+    
+  <div class="lesson"> 
+    <h2>Stage 2: Telling Computer What to Do  </h2>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          A.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div>
+  
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          B.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div>
+    
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          C.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div> 
+  </div>
+  
+  <div class="lesson"> 
+    <h2>..</h2>
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          A.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div>
+  
+    <div class="ConcertBox">
+    <div class="Concert-Title">
+          B.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div>
+    
+     <div class="ConcertBox">
+    <div class="Concert-Title">
+          C.
+    </div>
+    <div class="Description">
+      <p> </p>
+    </div>
+    </div>
+    
+  </div> <!-- Close DIV -->
+
+  </body>
